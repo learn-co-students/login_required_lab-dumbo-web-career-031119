@@ -13,9 +13,9 @@ Our app has three pages:
 
 ## Instructions
 
-1. Build out the `SessionsController`.
+<!-- 1. Build out the `SessionsController`. -->
 
-2. Write a `current_user` method.
+<!-- 2. Write a `current_user` method. -->
 
 3. Write a `SecretsController` using a `before_action` to prevent any route from being accessed without logging in.
 
